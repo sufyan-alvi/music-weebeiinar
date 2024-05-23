@@ -1,0 +1,1591 @@
+body{
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid black ;
+    
+    position: relative;
+    background-image: url('https://www.htmlcsscolor.com/preview/gallery/383030.png');
+    background-size: cover;
+ 
+}
+
+.popular-artist-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-artist-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-artist-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-artist-pic-container{
+    margin: auto;
+}
+.popular-artist-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-artist-role{
+    color: rgb(150, 144, 144);
+}
+.popular-artist-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color: white;
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-artist{
+    background-color: rgb(56, 48, 48);
+}
+.popular-artist-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+
+.text{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+#navbar{
+    background-color: rgb(56, 48, 48);
+}
+
+.show{
+    color: white;
+    font-size: 20px;
+    
+}
+
+h6{
+    text-decoration: none;
+}
+
+
+.popular-album-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-album-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-album-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-album-pic-container{
+    margin: auto;
+}
+.popular-album-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-album-role{
+    color: rgb(150, 144, 144);
+}
+.popular-album-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-album{
+    background-color: rgb(56, 48, 48);
+}
+.popular-album-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popular-radio-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-radio-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-radio-pic{
+    width: 150px;   
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-radio-pic-container{
+    margin: auto;
+}
+.popular-radio-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-radio-role{
+    color: rgb(150, 144, 144);
+}
+.popular-radio-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-radio{
+    background-color: rgb(56, 48, 48);
+}
+.popular-radio-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+.popular-cateo-card{
+    width: 200px;
+    padding: 5px;
+}
+
+.popular-cateo-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-cateo-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-cateo-pic-container{
+    margin: auto;
+}
+.popular-cateo-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-cateo-role{
+    color: rgb(150, 144, 144);
+}
+.popular-cateo-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color:white;
+
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-cateo{
+    background-color: rgb(56, 48, 48);
+}
+.popular-cateo-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+h3{
+    color: white;
+    font-weight: bold;
+}
+.popular-cateo-container{
+    background-color: rgb(56, 48, 48);
+}
+
+.popular-cateo-card{
+    width: 200px;
+    padding: 5px;
+}
+
+.popular-cateo-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-cateo-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-cateo-pic-container{
+    margin: auto;
+}
+.popular-cateo-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-cateo-role{
+    color: rgb(150, 144, 144);
+}
+.popular-cateo-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color:white;
+
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-cateo{
+    background-color: rgb(56, 48, 48);
+}
+.popular-cateo-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+h3{
+    color: white;
+    font-weight: bold;
+}
+.popular-cateo-container{
+    background-color: rgb(56, 48, 48);
+}
+
+.popular-cateo-card{
+    width: 200px;
+    padding: 5px;
+}
+
+.popular-cateo-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-cateo-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-cateo-pic-container{
+    margin: auto;
+}
+.popular-cateo-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-cateo-role{
+    color: rgb(150, 144, 144);
+}
+.popular-cateo-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color:white;
+
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-cateo{
+    background-color: rgb(56, 48, 48);
+}
+.popular-cateo-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+h3{
+    color: white;
+    font-weight: bold;
+}
+.popular-cateo-container{
+    background-color: rgb(56, 48, 48);
+}
+
+
+
+
+.popular-cateo-card{
+    width: 200px;
+    padding: 5px;
+}
+
+.popular-cateo-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-cateo-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-cateo-pic-container{
+    margin: auto;
+}
+.popular-cateo-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-cateo-role{
+    color: rgb(150, 144, 144);
+}
+.popular-cateo-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color:white;
+
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-cateo{
+    background-color: rgb(56, 48, 48);
+}
+.popular-cateo-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+    
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+h3{
+    color: white;
+    font-weight: bold;
+}
+.popular-cateo-container{
+    background-color: rgb(56, 48, 48);
+}
+
+.popular-cateo-card{
+    width: 200px;
+    padding: 5px;
+}
+
+.popular-cateo-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-cateo-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-cateo-pic-container{
+    margin: auto;
+}
+.popular-cateo-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-cateo-role{
+    color: rgb(150, 144, 144);
+}
+.popular-cateo-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color:white;
+
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-cateo{
+    background-color: rgb(56, 48, 48);
+}
+.popular-cateo-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+h3{
+    color: white;
+    font-weight: bold;
+}
+.popular-cateo-container{
+    background-color: rgb(56, 48, 48);
+}
+
+#parent1{
+    margin-top: 100px;
+    margin-left: -400px;
+}
+
+.newrelease-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.newrelease-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.new-release-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.newrelease-pic-container{
+    margin: auto;
+}
+.newrelease-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.newrelease-role{
+    color: rgb(150, 144, 144);
+}
+.newrelease-container{
+    display: inline-flex;
+    padding-bottom:5px ;
+    margin-left: 50px;
+    
+}
+
+.trending-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.trending-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.trending-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.trending-pic-container{
+    margin: auto;
+}
+.trending-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.trending-role{
+    color: rgb(150, 144, 144);
+}
+.trending-container{
+    display: inline-flex;
+    padding-bottom:5px ;
+    margin-left: 50px;
+    
+}
+.popular-cateo-card{
+    width: 200px;
+    padding: 5px;
+}
+
+.popular-cateo-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-cateo-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-cateo-pic-container{
+    margin: auto;
+}
+.popular-cateo-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-cateo-role{
+    color: rgb(150, 144, 144);
+}
+.popular-cateo-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color:white;
+
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-cateo{
+    background-color: rgb(56, 48, 48);
+}
+.popular-cateo-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+h3{
+    color: white;
+    font-weight: bold;
+}
+.popular-cateo-container{
+    background-color: rgb(56, 48, 48);
+}
+#navbar{
+    color: white;
+}
+#logo{
+    width: 50px; height: 50px
+}
+#nav-text{
+    color: white;
+}
+#dropdown-list{
+    background: rgba(0, 0, 0, 0.5);
+}
+#categories{
+    color: white;
+}
+#trending-btn{
+    height:40px; color: white; border-radius:20px; padding:8px 5px; width:100px; margin-left: 5px; text-align:center; background-color: red; 
+}
+#search-btn{
+    border-color: white; color: white
+}
+#search-btn:hover{
+    background-color: black;
+    color: white;
+}
+#album-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 430px;
+}
+#footer-bg{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+#footer-text{
+    color: white;
+    display: inline;
+}
+#footer-txt{
+    font-size: 15px;
+    display: inline;
+}
+#classical-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 500px;
+
+}
+#jazz-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 500px;
+
+}
+#new-release-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 500px;
+
+}
+#pop-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 600px;
+
+}
+#artist-header{
+    color: white; font-weight: bold;  font-size: 50px; margin-left: 430px;
+}
+.popular-artist-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-artist-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-artist-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-artist-pic-container{
+    margin: auto;
+}
+.popular-artist-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-artist-role{
+    color: rgb(150, 144, 144);
+}
+.popular-artist-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color: white;
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-artist{
+    background-color: rgb(56, 48, 48);
+}
+.popular-artist-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+
+.text{
+    color: black;
+}
+#navbar{
+    background-color: rgb(56, 48, 48);
+}
+
+
+
+
+.popular-album-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-album-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-album-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-album-pic-container{
+    margin: auto;
+}
+.popular-album-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-album-role{
+    color: rgb(150, 144, 144);
+}
+.popular-album-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-album{
+    background-color: rgb(56, 48, 48);
+}
+.popular-album-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popular-radio-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-radio-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-radio-pic{
+    width: 150px;   
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-radio-pic-container{
+    margin: auto;
+}
+.popular-radio-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-radio-role{
+    color: rgb(150, 144, 144);
+}
+.popular-radio-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-radio{
+    background-color: rgb(56, 48, 48);
+}
+.popular-radio-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1{
+   height: 400px;
+  
+}
+
+.div1{
+    color: white;
+
+}
+#radio-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 500px;
+   display: block;
+}
+.popular-radio{
+    display: block;
+}
+#rap-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 510px;
+}
+#rock-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 470px;
+
+}
+#trending-header{
+    color: white; font-weight: bold;font-size: 50px; margin-left: 540px;
+
+}
+.popular-artist-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-artist-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-artist-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-artist-pic-container{
+    margin: auto;
+}
+.popular-artist-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-artist-role{
+    color: rgb(150, 144, 144);
+}
+.popular-artist-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color: white;
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-artist{
+    background-color: rgb(56, 48, 48);
+}
+.popular-artist-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+
+.text{
+    color: black;
+}
+#navbar{
+    background-color: rgb(56, 48, 48);
+}
+
+
+
+
+.popular-album-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-album-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-album-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-album-pic-container{
+    margin: auto;
+}
+.popular-album-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-album-role{
+    color: rgb(150, 144, 144);
+}
+.popular-album-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-album{
+    background-color: rgb(56, 48, 48);
+}
+.popular-album-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popular-radio-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-radio-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-radio-pic{
+    width: 150px;   
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-radio-pic-container{
+    margin: auto;
+}
+.popular-radio-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-radio-role{
+    color: rgb(150, 144, 144);
+}
+.popular-radio-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-radio{
+    background-color: rgb(56, 48, 48);
+}
+.popular-radio-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1{
+   height: 400px;
+  
+}
+
+.div1{
+    color: white;
+
+}
+
+.popular-artist-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-artist-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-artist-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-artist-pic-container{
+    margin: auto;
+}
+.popular-artist-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-artist-role{
+    color: rgb(150, 144, 144);
+}
+.popular-artist-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color: white;
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-artist{
+    background-color: rgb(56, 48, 48);
+}
+.popular-artist-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+
+.text{
+    color: black;
+}
+#navbar{
+    background-color: rgb(56, 48, 48);
+}
+
+
+
+
+.popular-album-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-album-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-album-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-album-pic-container{
+    margin: auto;
+}
+.popular-album-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-album-role{
+    color: rgb(150, 144, 144);
+}
+.popular-album-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-album{
+    background-color: rgb(56, 48, 48);
+}
+.popular-album-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popular-radio-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-radio-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-radio-pic{
+    width: 150px;   
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-radio-pic-container{
+    margin: auto;
+}
+.popular-radio-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-radio-role{
+    color: rgb(150, 144, 144);
+}
+.popular-radio-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-radio{
+    background-color: rgb(56, 48, 48);
+}
+.popular-radio-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1{
+   height: 400px;
+  
+}
+
+.div1{
+    color: white;
+
+}
+
+.popular-artist-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-artist-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-artist-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-artist-pic-container{
+    margin: auto;
+}
+.popular-artist-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-artist-role{
+    color: rgb(150, 144, 144);
+}
+.popular-artist-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color: white;
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-artist{
+    background-color: rgb(56, 48, 48);
+}
+.popular-artist-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+
+.text{
+    color: black;
+}
+#navbar{
+    background-color: rgb(56, 48, 48);
+}
+
+
+
+
+.popular-album-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-album-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-album-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-album-pic-container{
+    margin: auto;
+}
+.popular-album-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-album-role{
+    color: rgb(150, 144, 144);
+}
+.popular-album-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-album{
+    background-color: rgb(56, 48, 48);
+}
+.popular-album-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popular-radio-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-radio-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-radio-pic{
+    width: 150px;   
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-radio-pic-container{
+    margin: auto;
+}
+.popular-radio-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-radio-role{
+    color: rgb(150, 144, 144);
+}
+.popular-radio-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-radio{
+    background-color: rgb(56, 48, 48);
+}
+.popular-radio-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1{
+   height: 400px;
+  
+}
+
+.div1{
+    color: white;
+
+}
+
+.popular-artist-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-artist-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-artist-pic{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+}
+.popular-artist-pic-container{
+    margin: auto;
+}
+.popular-artist-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-artist-role{
+    color: rgb(150, 144, 144);
+}
+.popular-artist-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+
+h3{
+    font-weight: bold;
+    color: white;
+}
+h3:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.popular-artist{
+    background-color: rgb(56, 48, 48);
+}
+.popular-artist-info{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#search-input:focus{
+    border-color: red;
+}
+
+.text{
+    color: black;
+}
+#navbar{
+    background-color: rgb(56, 48, 48);
+}
+
+
+
+
+.popular-album-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-album-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-album-pic{
+    width: 150px;
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-album-pic-container{
+    margin: auto;
+}
+.popular-album-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-album-role{
+    color: rgb(150, 144, 144);
+}
+.popular-album-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-album{
+    background-color: rgb(56, 48, 48);
+}
+.popular-album-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.popular-radio-card{
+    width: 200px;
+    padding: 5px;
+   
+}
+
+.popular-radio-card:hover{
+    box-shadow: 5px 5px 5px rgba(104, 4, 4, 0.5);
+    cursor: pointer;
+}
+.popular-radio-pic{
+    width: 150px;   
+    border-radius: 10px;
+    height: 150px;
+}
+.popular-radio-pic-container{
+    margin: auto;
+}
+.popular-radio-name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.popular-radio-role{
+    color: rgb(150, 144, 144);
+}
+.popular-radio-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:5px ;
+}
+.popular-radio{
+    background-color: rgb(56, 48, 48);
+}
+.popular-radio-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1{
+   height: 400px;
+  
+}
+
+.div1{
+    color: white;
+
+}
+#song-pic{
+    
+height: 400px; width: 400px; border-radius: 200px; margin-left: 450px;
+}
+#song-name{
+    padding-left: 490px; color: white; font-size: 30px;
+}
+#song{
+    margin-left: 500px
+}
+.img1{
+    height: 400px;
+    width: 400px; 
+    border-radius: 100px; 
+    margin-left: 450px;
+}
+.text{
+    padding-left: 490px; 
+    color: black; 
+    font-size: 30px;
+}
